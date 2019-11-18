@@ -23,5 +23,7 @@
 …………
 
 注意： 输入的内容，利用main方法中的args数组传递
-![yunxingjeguo](https://github.com/kwy47/zifuchuan/blob/master/39e08769fc18b685250175815b1f378.png)
-![liucehng]()
+
+![image](https://github.com/kwy47/zifuchuan/blob/master/39e08769fc18b685250175815b1f378.png)
+
+![liucehng](https://github.com/kwy47/zifuchuan/blob/master/1574063460(1).png)

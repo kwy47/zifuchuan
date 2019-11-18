@@ -34,13 +34,13 @@
 
 流程图：
 
-![image](https://github.com/kwy47/zifuchuan/blob/master/39e08769fc18b685250175815b1f378.png)
+![liucehng](https://github.com/kwy47/zifuchuan/blob/master/1574063460(1).png)
 
 三、代码解释
 本次实验比较简单，代码如上，解释注释上面还算比较严谨
 
 以下为运行图：
 
-![liucehng](https://github.com/kwy47/zifuchuan/blob/master/1574063460(1).png)
+![image](https://github.com/kwy47/zifuchuan/blob/master/39e08769fc18b685250175815b1f378.png)
 
 四、实验收获：此次JAVA实验，让我对Java字符串 排版等有了更深的了解，对Java整体有了更深刻的认识，希望以后能在学习Java的道路上更上一层楼。
